@@ -1,5 +1,6 @@
 package by.ak.springdatamongo;
 
+import by.ak.springdatamongo.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import net.datafaker.Faker;

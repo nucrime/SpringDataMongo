@@ -1,5 +1,6 @@
 package by.ak.springdatamongo;
 
+import by.ak.springdatamongo.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
